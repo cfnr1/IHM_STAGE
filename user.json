@@ -1,0 +1,30 @@
+{
+    "themes": [
+      {
+        "ihm_custom": {
+          "type": "light",
+          "colors": {
+            "primary": "#000091", 
+              "secondary": "#273961", 
+              "success": "#4b9f6c", 
+              "info": "#b2b2b2", 
+              "warning": "#fc5d00", 
+              "danger": "#7b7b7b", 
+              "light": "#ffffff", 
+              "dark": "#2f2f2f", 
+              "bg": "#ffffff", 
+              "fg": "#2f2f2f", 
+              "selectbg": "#2323ff", 
+              "selectfg": "#ffffff", 
+              "border": "#cecece", 
+              "inputfg": "#2f2f2f", 
+              "inputbg": "#fff", 
+              "active": "#dddddd"
+          }
+        }
+      }
+    ]
+  }
+
+
+  
